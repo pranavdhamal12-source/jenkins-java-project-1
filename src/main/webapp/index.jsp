@@ -20,7 +20,7 @@
           <label>Email or Mobile number</label>
         </div>
         <div class="form-control">
-          <input type="password" required />
+          <input type="pass" required />
           <label>Password</label>
         </div>
         <button type="submit">WELCOME TO NETFLIX V-5.0</button>
